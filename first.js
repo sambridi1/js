@@ -3,14 +3,14 @@
 // console.log("I love javascript"); //print
 
 
-naam="sambridi";//string
-age=24;
-radius=14;
-isFollow=false;//blue
-console.log(isFollow);
-console.log(naam);
-console.log(age);
-console.log(radius);
+// naam="sambridi";//string
+// age=24;
+// radius=14;
+// isFollow=false;//blue
+// console.log(isFollow);
+// console.log(naam);
+// console.log(age);
+// console.log(radius);
 
 
 // const naam="Sambridi";
