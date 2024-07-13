@@ -18,10 +18,14 @@ let name= "Sambridi";
 let age= 24;
 let isStudent= true;
 
-//cinsole printing the value
+//console printing the value
 console.log(name);
 console.log(age);
 console.log(isStudent);
+
+let isMarried ="False";
+console.log(isMarried,typeof married );
+
 
 
 
