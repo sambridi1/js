@@ -14,17 +14,17 @@
 //     let x= null         //null
 //                         //bigint
 
-let name= "Sambridi";
-let age= 24;
-let isStudent= true;
+// let name= "Sambridi";
+// let age= 24;
+// let isStudent= true;
 
-//console printing the value
-console.log(name);
-console.log(age);
-console.log(isStudent);
+// //console printing the value
+// console.log(name);
+// console.log(age);
+// console.log(isStudent);
 
-let isMarried ="False";
-console.log(isMarried,typeof married );
+// let isMarried ="False";
+// console.log(isMarried,typeof married );
 
 
 
